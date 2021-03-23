@@ -1,0 +1,5 @@
+Player colors, do not change the rows they are on, it is very important
+255, 0, 0
+0, 255, 0
+0, 0, 255
+255, 255, 0
